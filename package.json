@@ -1,0 +1,29 @@
+{
+  "family": "qsui",
+  "name": "table",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/qsui/table",
+  "author": "xuenshu",
+  "maintainers": [
+    "xuenshu"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qsui/table.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "table.js",
+      "table.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
